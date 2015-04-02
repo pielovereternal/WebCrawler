@@ -1,0 +1,22 @@
+HTTrack3.30 launched on Mon, 22 Nov 2004 13:37:33 at -*p3 http://www.superspoof.com/ -*.mov -*.mpg
+(httrack -s0 -A30000 -c4 -%c4 -O . -%k -D -a -x -n -%P -*p3 http://www.superspoof.com/ -*.mov -*.mpg )
+
+Information, Warnings and Errors reported for this mirror:
+note:	the hts-log.txt file, and hts-cache folder, may contain sensitive information,
+	such as username/password authentication for websites mirrored in this project
+	do not share these files/folders if you want these information to remain private
+
+13:38:10	Error: 	"Not Found" (404) at link www.superspoof.com/008000 (from www.superspoof.com/)
+13:38:10	Error: 	"Forbidden" (403) at link pagead2.googlesyndication.com/pagead/show_ads.js (from www.superspoof.com/)
+13:38:37	Error: 	"Not Found" (404) at link www.superspoof.com/email/008000 (from www.superspoof.com/email/)
+13:38:37	Error: 	"Not Found" (404) at link www.superspoof.com/design/008000 (from www.superspoof.com/design/)
+13:38:37	Error: 	"Not Found" (404) at link www.superspoof.com/movies/008000 (from www.superspoof.com/movies/)
+13:39:26	Error: 	"Not Found" (404) at link www.superspoof.com/vegas/index (from www.superspoof.com/vegas/)
+13:39:26	Error: 	"Not Found" (404) at link www.superspoof.com/ocanada/008000 (from www.superspoof.com/ocanada/)
+13:39:26	Error: 	"Not Found" (404) at link www.superspoof.com/home.html (from www.superspoof.com/penguin/)
+13:39:26	Error: 	"Not Found" (404) at link www.superspoof.com/napster/008000 (from www.superspoof.com/napster/)
+13:39:28	Error: 	"Not Found" (404) at link www.superspoof.com/blair/link (from www.superspoof.com/blair/)
+13:39:31	Error: 	"Not Found" (404) at link www.superspoof.com/007/008000 (from www.superspoof.com/007/)
+
+HTTrack mirror complete in 2 minutes 47 seconds : 194 links scanned, 183 files written (3394243 bytes overall) [3536189 bytes received at 21174 bytes/sec], 1277 bytes transfered using HTTP compression in 1 files, ratio 44%, 1.0 requests per connection
+(11 errors, 0 warnings, 0 messages)

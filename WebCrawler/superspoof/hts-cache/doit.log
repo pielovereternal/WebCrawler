@@ -1,0 +1,8 @@
+-s0 -A30000 -c4 -%c4 -O . -%k -D -a -x -n -%P -*p3 http://www.superspoof.com/ -*.mov -*.mpg
+File generated automatically on Mon, 22 Nov 2004 13:37:33, do NOT edit
+
+To update a mirror, just launch httrack without any parameters
+The existing cache will be used (and modified)
+To have other options, retype all parameters and launch HTTrack
+To continue an interrupted mirror, just launch httrack without any parameters
+
