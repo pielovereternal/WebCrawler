@@ -8,6 +8,7 @@ import java.util.NoSuchElementException;
 import java.util.Set;
 import java.util.Stack;
 
+
 public class ParseTree {
 	private WebIndex webIndex;
 	private PTreeNode root;
